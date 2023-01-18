@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋🏻, I'm Naveen </br> 
 </h1>
-<p align="center">I love creating content about AI🤖 
+<p align="center">I love creating content about AI.🤖 
 Habits🚀 
 Books📚 
 Spiritual🙏 
